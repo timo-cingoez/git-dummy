@@ -1,1 +1,2 @@
 print("table")
+print("test")
